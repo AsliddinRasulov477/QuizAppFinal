@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  QuizApp
+
+  Created by Akhadjon Abdukhalilov on 10/12/20.
+  Copyright © 2020 Akhadjon Abdukhalilov. All rights reserved.
+*/
+
+//Settings
+
+"setting" = "Sozlamalar";
+
+"1" = "Tilni o'zgartirish";
+"2" = "Tungi rejim";
+"3" = "Bo'lishish";
+"4" = "Bizni baholang";
+"5" = "Biz haqimizda";
+"6" = "Bizning ilovalar";
+"reset" = "Boshlang'ich holatga qaytarish ";
+//Language Setting
+
+"langauge" = "Tillar";
+
+"7" = "Lotincha";
+"8" = "Криллча";
+"9" = "Русский";
+
+//Home
+
+"home" = "Bosh sahifa";
+"Hi" = "Salom";
+"Learning" = "O'rganish";
+"Exam" = "Exam";
+"TotalTest" = "Hamma testlar";
+"Completed" = "Tugallangan";
+"InCompleted" = "Tugallanmagan";
+"LevelOfDifficulty" = "Qiyinlik darajasi";
+
+"Easy" = "Oson";
+"Normal" = "O'rtacha";
+"Hard" = "Qiyin";
+
+"questions" = "Savollar";
+"See All" = "Hammasi";
+
+"topics" = "Mavzular";
+//AlertViewController
+
+"21" = "Quiz muvaffaqiyatli yakunlandi";
+"22" = "To'g'ri javoblar soni";
+"23" = "Noto'gri javoblar soni";
+"25" = "Javoblarni tahlil qilish";
+"26" = "Bosh menyuga qaytish";
+"27" = "Natijani bo'lishish";
+
+
+//Result View controller
+"question" = "Savol";
+
+"questions_table" = "questions_table_lat";
+"topics_table" = "topics_table_lat";

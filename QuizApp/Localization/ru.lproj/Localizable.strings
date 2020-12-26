@@ -1,0 +1,65 @@
+/*
+  Localizable.strings
+  QuizApp
+
+  Created by Akhadjon Abdukhalilov on 10/12/20.
+  Copyright © 2020 Akhadjon Abdukhalilov. All rights reserved.
+*/
+
+// Settings
+
+"setting" = "Настройка";
+
+"1" = "Поменять язык";
+"2" = "Ночной режим";
+"3" = "Поделиться";
+"4" = "Оцените нас";
+"5" = "O нас";
+"6" = "Наши приложения";
+"reset" = "Cброс";
+
+//Language Settings
+
+"langauge" = "Языки";
+
+"7" = "Lotincha";
+"8" = "Криллча";
+"9" = "Русский";
+
+
+//Home
+
+"home" = "Дом";
+
+"Hi" = "Привет";
+
+"Learning" = "Обучение";
+"Exam" = "Экзамен";
+"TotalTest" = "Всего тестов";
+"Completed" = "Завершено";
+"InCompleted" = "Незавершенный";
+"LevelOfDifficulty" = "Уровень сложности";
+
+"Easy" = "Легкий";
+"Normal" = "Средний";
+"Hard" = "Сложный";
+
+"questions" = "Вопросы";
+"See All" = "Увидеть все";
+
+"topics" = "Темы";
+//AlertViewController
+
+"21" = "Викторина успешно завершена";
+"22" = "Количество правильных ответов";
+"23" = "Количество неправильных ответов";
+"25" = "Проанализируйте ответы";
+"26" = "Вернуться в главное меню";
+"27" = "Поделитесь результатом";
+
+
+//Result View controller
+"question" = "Вопрос";
+
+"questions_table" = "questions_table_rus";
+"topics_table" = "topics_table_rus";
